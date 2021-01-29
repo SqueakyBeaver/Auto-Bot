@@ -4,7 +4,7 @@ Running
 =======
 To run, you need Python 3.7 or later
 You also need the following packages: [`datetime`](https://docs.python.org/3/library/datetime.html), [`discord.py`](https://pypi.org/project/discord.py/), and [`aiohttp`](https://pypi.org/project/aiohttp/)
-You can simply run the `python3 src/bot.py` (if you have something else, you know what you're doing)
+You can simply run the command `python3 src/bot.py` (if you have something else, you know what you're doing)
 
 
 Notice
